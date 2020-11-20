@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ktlaboral/App-React/static/css/main.7ea7d044.chunk.css",
+    "main.js": "/ktlaboral/App-React/static/js/main.411fcab3.chunk.js",
+    "main.js.map": "/ktlaboral/App-React/static/js/main.411fcab3.chunk.js.map",
+    "runtime-main.js": "/ktlaboral/App-React/static/js/runtime-main.700c1569.js",
+    "runtime-main.js.map": "/ktlaboral/App-React/static/js/runtime-main.700c1569.js.map",
+    "static/css/2.43b2b750.chunk.css": "/ktlaboral/App-React/static/css/2.43b2b750.chunk.css",
+    "static/js/2.1081c2d4.chunk.js": "/ktlaboral/App-React/static/js/2.1081c2d4.chunk.js",
+    "static/js/2.1081c2d4.chunk.js.map": "/ktlaboral/App-React/static/js/2.1081c2d4.chunk.js.map",
+    "index.html": "/ktlaboral/App-React/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/ktlaboral/App-React/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.7ea7d044.chunk.css.map": "/ktlaboral/App-React/static/css/main.7ea7d044.chunk.css.map",
+    "static/js/2.1081c2d4.chunk.js.LICENSE.txt": "/ktlaboral/App-React/static/js/2.1081c2d4.chunk.js.LICENSE.txt",
+    "static/media/logo_react.e68b35f4.svg": "/ktlaboral/App-React/static/media/logo_react.e68b35f4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.700c1569.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.1081c2d4.chunk.js",
+    "static/css/main.7ea7d044.chunk.css",
+    "static/js/main.411fcab3.chunk.js"
+  ]
+}
